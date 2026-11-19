@@ -1,0 +1,20 @@
+# PlatformIO build outputs & local cache
+.pio/
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build intermediates & binaries
+*.o
+*.d
+*.elf
+*.bin
+*.map
+
+# OS metadata
+.DS_Store
+Thumbs.db
